@@ -114,7 +114,7 @@ section h2
 
 #skills
 {
-    background-color: #a52a2a;
+    background-color: #1c9993;
 }
 #skills .container
 {
@@ -124,7 +124,7 @@ section h2
 }
 #skills h2
 {
-    margin-bottom: 60px;
+    margin-bottom: 15px;
     color: #fffafa;
 }
 #skills .skill-box
@@ -156,21 +156,21 @@ section h2
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
-    background-color: #20b2aa;
+    background-color: #ff9999;
 }
 #skills h3
 {
     font-size: 2.4rem;
     font-weight: bold;
-    margin-bottom: 10px;
-    color: #20b2aa;
+    margin-bottom: 5px;
+    color: #666666;
 }
 
 
 
 #contact ul
 {
-    margin-top: 60px;
+    margin-top: 5px;
     text-align: center;
 }
 #contact ul li
@@ -180,7 +180,7 @@ section h2
     -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
             box-sizing: border-box;
-    margin-right: 20px;
+    margin-right: 10px;
     text-align: center;
     vertical-align: top;
 }
@@ -206,11 +206,11 @@ section h2
     -webkit-border-radius: 10px;
        -moz-border-radius: 10px;
             border-radius: 10px;
-    background-color: #20b2aa;
+    background-color: #ff9999;
 }
 #contact ul a:hover
 {
-    background-color: #0f949b;
+    background-color: #666666;
 }
 
 footer
